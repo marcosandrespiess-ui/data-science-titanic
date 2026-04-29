@@ -6,9 +6,13 @@ Projeto de Machine Learning para prever a sobrevivência de passageiros do Titan
 Análise completa do dataset do Titanic utilizando técnicas de Data Science,
 desde a exploração dos dados até a construção de um modelo preditivo.
 
-## 🎯 Resultado
-- Acurácia do modelo: **81%**
-- Algoritmo utilizado: Regressão Logística
+## 🎯 Resultados
+
+| Modelo | Acurácia |
+|---|---|
+| Regressão Logística | 81.0% |
+| Random Forest otimizado | 81.6% |
+| XGBoost otimizado | 82.1% 🏆 |
 
 ## 🔍 Principais Insights
 - Mulheres tiveram taxa de sobrevivência de 74% vs 19% dos homens
